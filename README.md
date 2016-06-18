@@ -1,3 +1,5 @@
+#### Update 06/18/2016: New Documentation and Tutorial Coming Soon!
+
 # Mosaic
 
 Mosaic is a cross-platform, timing-accurate record and replay tool for
