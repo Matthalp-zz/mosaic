@@ -15,14 +15,19 @@ their own user interactive sessions from scratch.
 1. Python 2.7
     1. argparse (`pip install argparse`)
     2. enum34 (`pip install enum34`)
-2. Android Debugger (ADB)
+2. Rooted Android device
+3. Android Debugger (ADB)
+4. Reran [http://www.androidreran.com/]
+    1. Install to /data/local on device
+    2. Grant executable permissions
+
 
 # Convenience Scripts
 
 Although Mosaic is a Python-based command line tool, we provide the following
 bash wrappers for conveince operations:
 
-1. Calibrate sourcea nd target devices:
+1. Calibrate source and target devices:
     `./calibrate.sh <SOURCE-NAME>`
     `./calibrate.sh <TARGET-NAME>`
 2. Record applicaton use case:
