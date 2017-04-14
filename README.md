@@ -1,4 +1,3 @@
-#### Update 06/18/2016: New Documentation and Tutorial Coming Soon!
 
 # Mosaic
 
